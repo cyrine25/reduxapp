@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  
+ background-color: #e0e0e0;
+}
+.gold{
+  color:goldenrod;
+  font-size: 24px;
+  cursor: pointer;
+  
+}
+.black{
+  color:white;
+  font-size: 24px;
+  cursor: pointer;
+}
+.Display{
+  display: flow-root;
+ flex: content;
+  justify-content:flex-end;
+  margin: 20px;
+  
+  
+
+}
